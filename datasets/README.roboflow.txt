@@ -1,8 +1,8 @@
 
-Hand Signs - v1 2023-10-14 1:53pm
+Hand Signs - v4 2023-10-14 10:22pm
 ==============================
 
-This dataset was exported via roboflow.com on October 14, 2023 at 5:56 PM GMT
+This dataset was exported via roboflow.com on October 15, 2023 at 2:24 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 63 images.
+The dataset includes 245 images.
 ASL-meaning are annotated in YOLO v5 PyTorch format.
 
 The following pre-processing was applied to each image:
